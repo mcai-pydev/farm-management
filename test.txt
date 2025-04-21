@@ -1,0 +1,41 @@
+# Farm Management Test File
+
+## System Components
+- Livestock Tracking
+- Feed Management
+- Health Monitoring
+- Breeding Records
+- Field Management
+
+## Test Scenarios
+1. Animal Registration
+   - Add new animal
+   - Update health records
+   - Track lineage
+
+2. Feed Inventory
+   - Stock levels
+   - Consumption rates
+   - Reorder points
+
+3. Field Operations
+   - Crop rotation
+   - Irrigation schedules
+   - Yield tracking
+
+## Integration Points
+- Weather API
+- Market Prices
+- Veterinary Services
+- Supply Chain
+
+## Environment
+- Location: /d/SIte/farm-management/
+- Branch: main
+- System: Git Bash on Windows
+- Created: [Current Date]
+
+## Notes
+- Test file for farm management system
+- Used for development and testing
+- Integration with MC authorization system 
