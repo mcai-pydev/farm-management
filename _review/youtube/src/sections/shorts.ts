@@ -1,0 +1,1 @@
+// ShortsManager class

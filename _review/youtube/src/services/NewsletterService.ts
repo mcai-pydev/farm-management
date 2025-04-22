@@ -1,0 +1,1 @@
+// Newsletter & contact list intelligence (to be extended)

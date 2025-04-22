@@ -1,0 +1,13 @@
+# Test File (Git Bash)
+
+This is a test file created in the YouTube directory using the correct path.
+
+## Contents
+- Test section 1
+- Test section 2
+
+## Status
+- Created: [Current Date]
+- Location: /d/SIte/youtube/
+- Branch: main
+- Environment: Git Bash on Windows 
